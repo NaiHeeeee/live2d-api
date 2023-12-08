@@ -1,7 +1,7 @@
 {
     "models": [
         "histoire",
-	"Potion-Maker/Tia"
+	"Tia"
     ],
     "messages": [
         "欢迎来到我的主人的博客,旅行者",
