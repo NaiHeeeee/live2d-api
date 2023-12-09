@@ -1,10 +1,12 @@
 {
     "models": [
+	"Pio",
         "histoire",
-	"Pio"
+	"snow_miku"
     ],
     "messages": [
+        "来自 Potion Maker 的 Pio 酱 ~",
         "欢迎来到我的主人的博客,旅行者",
-        "来自 Potion Maker 的 Pio 酱 ~"
+        "Miku酱 ~"
     ]
 }
